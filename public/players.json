@@ -1,0 +1,574 @@
+{
+    "Baltimore Ravens": [
+        {
+            "position": "D/ST",
+            "name": "Baltimore Ravens"
+        },
+        {
+            "position": "WR",
+            "name": "Bateman, Rashod"
+        },
+        {
+            "position": "WR",
+            "name": "Walker, Devontez"
+        },
+        {
+            "position": "WR",
+            "name": "Flowers, Zay"
+        },
+        {
+            "position": "WR",
+            "name": "Wallace, Tylan"
+        },
+        {
+            "position": "WR",
+            "name": "Agholor, Nelson"
+        },
+        {
+            "position": "WR",
+            "name": "Sims, Steven"
+        },
+        {
+            "position": "TE",
+            "name": "Andrews, Mark"
+        },
+        {
+            "position": "TE",
+            "name": "Likely, Isaiah"
+        },
+        {
+            "position": "TE",
+            "name": "Kolar, Charlie"
+        },
+        {
+            "position": "QB",
+            "name": "Jackson, Lamar"
+        },
+        {
+            "position": "QB",
+            "name": "Johnson, Josh"
+        },
+        {
+            "position": "RB",
+            "name": "Henry, Derrick"
+        },
+        {
+            "position": "RB",
+            "name": "Hill, Justice"
+        },
+        {
+            "position": "RB",
+            "name": "Mitchell, Keaton"
+        },
+        {
+            "position": "RB",
+            "name": "Ali, Rasheen"
+        },
+        {
+            "position": "FB",
+            "name": "Ricard, Patrick"
+        },
+        {
+            "position": "K",
+            "name": "Tucker, Justin"
+        }
+    ],
+    "Buffalo Bills": [
+        {
+            "position": "D/ST",
+            "name": "Buffalo Bills"
+        },
+        {
+            "position": "WR",
+            "name": "Coleman, Keon"
+        },
+        {
+            "position": "WR",
+            "name": "Hollins, Mack"
+        },
+        {
+            "position": "WR",
+            "name": "Cooper, Amari"
+        },
+        {
+            "position": "WR",
+            "name": "Shakir, Khalil"
+        },
+        {
+            "position": "WR",
+            "name": "Samuel, Curtis"
+        },
+        {
+            "position": "TE",
+            "name": "Knox, Dawson"
+        },
+        {
+            "position": "TE",
+            "name": "Kincaid, Dalton"
+        },
+        {
+            "position": "TE",
+            "name": "Morris, Quintin"
+        },
+        {
+            "position": "QB",
+            "name": "Allen, Josh"
+        },
+        {
+            "position": "QB",
+            "name": "Trubisky, Mitchell"
+        },
+        {
+            "position": "QB",
+            "name": "White, Mike"
+        },
+        {
+            "position": "RB",
+            "name": "Cook, James"
+        },
+        {
+            "position": "RB",
+            "name": "Johnson, Ty"
+        },
+        {
+            "position": "RB",
+            "name": "Davis, Ray"
+        },
+        {
+            "position": "FB",
+            "name": "Gilliam, Reggie"
+        },
+        {
+            "position": "K",
+            "name": "Bass, Tyler"
+        }
+    ],
+    "Kansas City Chiefs": [
+        {
+            "position": "D/ST",
+            "name": "Kansas City Chiefs"
+        },
+        {
+            "position": "WR",
+            "name": "Hopkins, Deandre"
+        },
+        {
+            "position": "WR",
+            "name": "Watson, Justin"
+        },
+        {
+            "position": "WR",
+            "name": "Worthy, Xavier"
+        },
+        {
+            "position": "WR",
+            "name": "Remigio, Nikko"
+        },
+        {
+            "position": "WR",
+            "name": "Brown, Hollywood"
+        },
+        {
+            "position": "WR",
+            "name": "Smith-Schuster, Juju"
+        },
+        {
+            "position": "TE",
+            "name": "Kelce, Travis"
+        },
+        {
+            "position": "TE",
+            "name": "Gray, Noah"
+        },
+        {
+            "position": "TE",
+            "name": "Hendershot, Peyton"
+        },
+        {
+            "position": "QB",
+            "name": "Mahomes, Patrick"
+        },
+        {
+            "position": "QB",
+            "name": "Wentz, Carson"
+        },
+        {
+            "position": "RB",
+            "name": "Pacheco, Isiah"
+        },
+        {
+            "position": "RB",
+            "name": "Hunt, Kareem"
+        },
+        {
+            "position": "RB",
+            "name": "Perine, Samaje"
+        },
+        {
+            "position": "RB",
+            "name": "Steele, Carson"
+        },
+        {
+            "position": "K",
+            "name": "Butker, Harrison"
+        }
+    ],
+    "Houston Texans": [
+        {
+            "position": "D/ST",
+            "name": "Houston Texans"
+        },
+        {
+            "position": "WR",
+            "name": "Collins, Nico"
+        },
+        {
+            "position": "WR",
+            "name": "Hutchinson, Xavier"
+        },
+        {
+            "position": "WR",
+            "name": "Wayne, Jared"
+        },
+        {
+            "position": "WR",
+            "name": "Metchie Iii, John"
+        },
+        {
+            "position": "WR",
+            "name": "Woods, Robert"
+        },
+        {
+            "position": "TE",
+            "name": "Schultz, Dalton"
+        },
+        {
+            "position": "TE",
+            "name": "Smith, Irv"
+        },
+        {
+            "position": "QB",
+            "name": "Stroud, C.J."
+        },
+        {
+            "position": "QB",
+            "name": "Mills, Davis"
+        },
+        {
+            "position": "RB",
+            "name": "Mixon, Joe"
+        },
+        {
+            "position": "RB",
+            "name": "Ogunbowale, Dare"
+        },
+        {
+            "position": "RB",
+            "name": "Pierce, Dameon"
+        },
+        {
+            "position": "RB",
+            "name": "Taylor, J.J."
+        },
+        {
+            "position": "FB",
+            "name": "Beck, Andrew"
+        },
+        {
+            "position": "K",
+            "name": "Fairbairn, Ka'Imi"
+        }
+    ],
+    "Detroit Lions": [
+        {
+            "position": "D/ST",
+            "name": "Detroit Lions"
+        },
+        {
+            "position": "WR",
+            "name": "Patrick, Tim"
+        },
+        {
+            "position": "WR",
+            "name": "Robinson, Allen"
+        },
+        {
+            "position": "WR",
+            "name": "Williams, Jameson"
+        },
+        {
+            "position": "WR",
+            "name": "St. Brown, Amon-Ra"
+        },
+        {
+            "position": "WR",
+            "name": "Raymond, Kalif"
+        },
+        {
+            "position": "TE",
+            "name": "Laporta, Sam"
+        },
+        {
+            "position": "TE",
+            "name": "Wright, Brock"
+        },
+        {
+            "position": "TE",
+            "name": "Zylstra, Shane"
+        },
+        {
+            "position": "QB",
+            "name": "Goff, Jared"
+        },
+        {
+            "position": "QB",
+            "name": "Hooker, Hendon"
+        },
+        {
+            "position": "QB",
+            "name": "Bridgewater, Teddy"
+        },
+        {
+            "position": "RB",
+            "name": "Gibbs, Jahmyr"
+        },
+        {
+            "position": "RB",
+            "name": "Montgomery, David"
+        },
+        {
+            "position": "RB",
+            "name": "Reynolds, Craig"
+        },
+        {
+            "position": "RB",
+            "name": "Vaki, Sione"
+        },
+        {
+            "position": "K",
+            "name": "Bates, Jake"
+        }
+    ],
+    "Washington Commanders": [
+        {
+            "position": "D/ST",
+            "name": "Washington Commanders"
+        },
+        {
+            "position": "WR",
+            "name": "Mclaurin, Terry"
+        },
+        {
+            "position": "WR",
+            "name": "Osborn, K.J."
+        },
+        {
+            "position": "WR",
+            "name": "Brown, Dyami"
+        },
+        {
+            "position": "WR",
+            "name": "Mccaffrey, Luke"
+        },
+        {
+            "position": "WR",
+            "name": "Zaccheaus, Olamide"
+        },
+        {
+            "position": "WR",
+            "name": "Crowder, Jamison"
+        },
+        {
+            "position": "TE",
+            "name": "Ertz, Zach"
+        },
+        {
+            "position": "TE",
+            "name": "Bates, John"
+        },
+        {
+            "position": "TE",
+            "name": "Sinnott, Ben"
+        },
+        {
+            "position": "QB",
+            "name": "Daniels, Jayden"
+        },
+        {
+            "position": "QB",
+            "name": "Mariota, Marcus"
+        },
+        {
+            "position": "QB",
+            "name": "Driskel, Jeff"
+        },
+        {
+            "position": "RB",
+            "name": "Robinson Jr., Brian"
+        },
+        {
+            "position": "RB",
+            "name": "Ekeler, Austin"
+        },
+        {
+            "position": "RB",
+            "name": "Mcnichols, Jeremy"
+        },
+        {
+            "position": "RB",
+            "name": "Rodriguez Jr., Chris"
+        },
+        {
+            "position": "K",
+            "name": "Gonzalez, Zane"
+        }
+    ],
+    "Los Angeles Rams": [
+        {
+            "position": "D/ST",
+            "name": "Los Angeles Rams"
+        },
+        {
+            "position": "WR",
+            "name": "Robinson, Demarcus"
+        },
+        {
+            "position": "WR",
+            "name": "Johnson, Tyler"
+        },
+        {
+            "position": "WR",
+            "name": "Nacua, Puka"
+        },
+        {
+            "position": "WR",
+            "name": "Atwell, Tutu"
+        },
+        {
+            "position": "WR",
+            "name": "Kupp, Cooper"
+        },
+        {
+            "position": "WR",
+            "name": "Whittington, Jordan"
+        },
+        {
+            "position": "WR",
+            "name": "Smith, Xavier"
+        },
+        {
+            "position": "TE",
+            "name": "Higbee, Tyler"
+        },
+        {
+            "position": "TE",
+            "name": "Parkinson, Colby"
+        },
+        {
+            "position": "TE",
+            "name": "Allen, Davis"
+        },
+        {
+            "position": "TE",
+            "name": "Long, Hunter"
+        },
+        {
+            "position": "QB",
+            "name": "Stafford, Matthew"
+        },
+        {
+            "position": "QB",
+            "name": "Garoppolo, Jimmy"
+        },
+        {
+            "position": "QB",
+            "name": "Bennett, Stetson"
+        },
+        {
+            "position": "RB",
+            "name": "Williams, Kyren"
+        },
+        {
+            "position": "RB",
+            "name": "Rivers, Ronnie"
+        },
+        {
+            "position": "RB",
+            "name": "Schrader, Cody"
+        },
+        {
+            "position": "K",
+            "name": "Karty, Joshua"
+        }
+    ],
+    "Philadelphia Eagles": [
+        {
+            "position": "D/ST",
+            "name": "Philadelphia Eagles"
+        },
+        {
+            "position": "WR",
+            "name": "Brown, A.J."
+        },
+        {
+            "position": "WR",
+            "name": "Wilson, Johnny"
+        },
+        {
+            "position": "WR",
+            "name": "Dotson, Jahan"
+        },
+        {
+            "position": "WR",
+            "name": "Campbell, Parris"
+        },
+        {
+            "position": "WR",
+            "name": "Smith, Devonta"
+        },
+        {
+            "position": "WR",
+            "name": "Smith, Ainias"
+        },
+        {
+            "position": "TE",
+            "name": "Goedert, Dallas"
+        },
+        {
+            "position": "TE",
+            "name": "Calcaterra, Grant"
+        },
+        {
+            "position": "TE",
+            "name": "Jenkins, E.J."
+        },
+        {
+            "position": "QB",
+            "name": "Hurts, Jalen"
+        },
+        {
+            "position": "QB",
+            "name": "Pickett, Kenny"
+        },
+        {
+            "position": "QB",
+            "name": "Mckee, Tanner"
+        },
+        {
+            "position": "RB",
+            "name": "Barkley, Saquon"
+        },
+        {
+            "position": "RB",
+            "name": "Gainwell, Kenneth"
+        },
+        {
+            "position": "RB",
+            "name": "Shipley, Will"
+        },
+        {
+            "position": "K",
+            "name": "Elliott, Jake"
+        }
+    ]
+}
